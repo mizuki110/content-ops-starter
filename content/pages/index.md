@@ -155,7 +155,7 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: left
-            style: primary
+            style: secondary
             elementId: ''
       - title: Feature Item Three
         tagline: This is the tagline
