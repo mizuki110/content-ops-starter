@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Find global giveaways and win exciting prizes daily!
+      text: Find global give-aways and win exciting prizes daily!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
