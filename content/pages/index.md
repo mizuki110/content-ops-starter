@@ -127,7 +127,7 @@ sections:
             elementId: ''
       - title: Amazon Gift Card 100$
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Shop for anything you want with a $100 Amazon Gift Card! From
           electronics to everyday items, it’s all yours. Don’t miss out—claim
