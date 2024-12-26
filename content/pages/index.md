@@ -121,7 +121,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /
+            url: 'https://smrturl.co/a/s05df2e40f0/364?s1='
             showIcon: false
             icon: arrowRight
             iconPosition: right
