@@ -164,7 +164,7 @@ sections:
             iconPosition: left
             style: primary
             elementId: ''
-      - title: Cash App Gift Card $750
+      - title: Cash App $750
         tagline: ''
         subtitle: This is the item subtitle
         text: >
