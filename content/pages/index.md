@@ -125,7 +125,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - title: Feature Item Two
+      - title: Amazon Gift Card 100$
         tagline: ''
         subtitle: This is the item subtitle
         text: >
