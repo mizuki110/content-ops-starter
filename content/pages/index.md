@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Your One-Stop Giveaway Hub
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      From gift cards to mystery boxes and cash prizes, explore exciting
+      giveaways like Amazon gift cards, iPhone offers, and more—all in one
+      place. Don't miss your chance to win today!
     actions:
       - label: Get started
         altText: ''
