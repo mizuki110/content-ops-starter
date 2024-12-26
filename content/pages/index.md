@@ -113,6 +113,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            justifyContent: center
         type: FeaturedItem
         actions:
           - type: Button
