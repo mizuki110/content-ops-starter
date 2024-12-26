@@ -128,8 +128,10 @@ sections:
       - title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Shop for anything you want with a $100 Amazon Gift Card! From
+          electronics to everyday items, it’s all yours. Don’t miss out—claim
+          your chance now!
         image:
           url: /images/Amazon-Gift-Card-PNG-Image-Background.png
           altText: Placeholder image
