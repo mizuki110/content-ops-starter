@@ -91,7 +91,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: CTConnect - iPhone 14
         tagline: ''
         subtitle: This is the item subtitle
         text: |
