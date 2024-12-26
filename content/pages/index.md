@@ -168,8 +168,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Ready for a massive cash boost? Win $750 in your Cash App account and
+          enjoy the ultimate shopping spree or savings boost. Enter now to win
+          big!
         image:
           url: /images/GSSZjqUagAA3YDp.png
           altText: Placeholder image
