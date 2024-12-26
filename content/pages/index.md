@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Find global giveaways and win exciting prizes daily!
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
