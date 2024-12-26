@@ -94,8 +94,10 @@ sections:
       - title: CTConnect - iPhone 14
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Dreaming of the latest tech? Here’s your shot at winning an iPhone 14!
+          Experience cutting-edge features and sleek design—don’t miss your
+          chance to enter now!
         image:
           url: /images/iphone14plus-digitalmat-gallery-1-202303_GEO_US.png
           altText: Placeholder Image
