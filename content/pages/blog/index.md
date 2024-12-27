@@ -35,7 +35,7 @@ topSections:
       - type: Button
         label: Enter Now
         altText: ''
-        url: 'https://smrturl.co/a/s05df2e40f0/6169?s1='
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
