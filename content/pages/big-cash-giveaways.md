@@ -168,5 +168,6 @@ seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
+  addTitleSuffix: true
 isDraft: true
 ---
