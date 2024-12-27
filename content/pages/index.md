@@ -372,8 +372,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          I can’t believe I won a $750 Cash App prize from here! The site is
+          legit and offers great rewards. The process is quick and
+          user-friendly. Keep the prizes coming!
         tagline: FreebieHunter99
         subtitle: 'Maria Walters, Company'
         text: >-
