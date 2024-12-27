@@ -344,8 +344,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          I’ve already won two giveaways in a month, including a $500 Target
+          eGift Card! I love how many options there are to choose from.
+          Definitely my go-to site for giveaways.
         tagline: ShopaholicSue
         subtitle: 'Maria Walters, Company'
         text: >-
