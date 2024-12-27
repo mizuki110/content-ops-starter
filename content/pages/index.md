@@ -230,7 +230,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Browse the Latest Prizes and Win Big with Easy Entries!
     text: >
       Discover the best giveaways all in one place! Our platform brings you a
       wide range of exciting prizes, from gift cards to cash rewards. With easy
