@@ -7,7 +7,8 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: >-
+    /images/kisspng-logo-product-design-font-brand-reward-demo-jet-set-go-rewards-1713928111455.webp
   altText: Thumbnail
   type: ImageBlock
   styles:
