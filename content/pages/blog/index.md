@@ -8,6 +8,9 @@ topSections:
       text: Top Giveaways with the Best Winning Odds
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
