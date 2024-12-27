@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "<div style=\"text-align: left\">At GiftGrabber, we're dedicated to bringing you the best and most exciting giveaways from around the world. Our mission is to make it easy for you to find and participate in high-value offers with real chances to win. Join us today and discover a world of incredible prizes!</div>\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
