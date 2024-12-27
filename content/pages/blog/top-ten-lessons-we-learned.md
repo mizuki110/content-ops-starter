@@ -14,10 +14,10 @@ featuredImage:
     self:
       borderRadius: x-small
       padding:
-        - pt-2
-        - pb-2
-        - pr-2
-        - pl-2
+        - pt-1
+        - pb-1
+        - pr-1
+        - pl-1
 isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
