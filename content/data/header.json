@@ -22,15 +22,6 @@
             "type": "Link"
         },
         {
-            "label": "Holiday Specials",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Big Cash Giveaways",
             "altText": "",
