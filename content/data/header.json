@@ -31,6 +31,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/Big Cash Giveaways",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
@@ -61,17 +72,6 @@
             ],
             "labelStyle": "primary",
             "type": "SubNav"
-        },
-        {
-            "type": "Link",
-            "label": "See Tutorials",
-            "altText": "",
-            "url": "/Big Cash Giveaways",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
