@@ -127,9 +127,8 @@ topSections:
         tagline: ''
         subtitle: ''
         text: >
-          Love Taco Bell? Win a $100 gift card to enjoy your favorite meals for
-          free! Entry is quick and easy with email & zip submit. Odds are high,
-          so give it a shot today!
+          Who doesn’t love cash? Enter for a chance to win $500 in just a few
+          clicks. Join the thousands of participants vying for this prize!
         image:
           type: ImageBlock
           url: /images/GSSZjqUagAA3YDp.png
