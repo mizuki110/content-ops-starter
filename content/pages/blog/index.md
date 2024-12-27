@@ -11,6 +11,7 @@ topSections:
       styles:
         self:
           textAlign: center
+          fontWeight: 400
     subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
