@@ -18,6 +18,11 @@ featuredImage:
         - pb-1
         - pr-1
         - pl-1
+      margin:
+        - mt-1
+        - ml-1
+        - mb-1
+        - mr-1
 isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
