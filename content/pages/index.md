@@ -89,7 +89,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Win Big with These Amazing Prizes!
     items:
       - title: CTConnect - iPhone 14
         tagline: ''
