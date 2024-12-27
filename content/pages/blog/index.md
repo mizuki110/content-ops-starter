@@ -31,16 +31,7 @@ topSections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     hoverEffect: move-up
-    actions:
-      - type: Button
-        label: Enter Now
-        altText: ''
-        url: ''
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
