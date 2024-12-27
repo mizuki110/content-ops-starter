@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
       styles:
         self:
-          textAlign: center
+          textAlign: left
           fontWeight: 400
     subtitle: ''
     posts:
