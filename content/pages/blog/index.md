@@ -27,6 +27,16 @@ topSections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     hoverEffect: move-up
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://smrturl.co/a/s05df2e40f0/6169?s1='
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
 styles:
   title:
     textAlign: center
