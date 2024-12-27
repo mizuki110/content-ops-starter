@@ -1,7 +1,5 @@
 ---
-title: >-
-  Want a chance to score a $100 Amazon gift card? Enter now for a simple chance
-  to win!
+title: These are the giveaways where you're most likely to win!"
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
