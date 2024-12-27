@@ -7,7 +7,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/Paypal_2014_logo.png
+  url: /images/pngimg.com - paypal_PNG7.png
   altText: Thumbnail
   type: ImageBlock
   styles:
