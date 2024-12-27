@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: CTConnect - $100 PayPal
+      text: CTConnect - $100 Amazon Gift Card
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
