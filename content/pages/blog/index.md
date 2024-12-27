@@ -50,7 +50,7 @@ topSections:
     subtitle: Win Big with These Amazing Prizes!
     items:
       - type: FeaturedItem
-        title: CTConnect - iPhone 14
+        title: win an iPhone 14
         tagline: ''
         subtitle: ''
         text: >
