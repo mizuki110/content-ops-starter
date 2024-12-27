@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: CTConnect - $100 Amazon Gift Card
+      text: Top Giveaways with the Best Winning Odds
       color: text-dark
       type: TitleBlock
     subtitle: ''
