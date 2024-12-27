@@ -15,7 +15,7 @@
         {
             "label": "Top Giveaways",
             "altText": "Top Giveaways",
-            "url": "/blog",
+            "url": "/Top Giveaways",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
