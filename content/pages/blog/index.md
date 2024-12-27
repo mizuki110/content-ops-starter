@@ -86,7 +86,7 @@ topSections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Amazon Gift Card 100$
+        title: CTConnect - Paypal $100
         tagline: ''
         subtitle: ''
         text: >
