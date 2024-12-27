@@ -16,7 +16,7 @@ featuredImage:
       padding:
         - pt-5
         - pb-2
-        - pr-5
+        - pr-2
         - pl-2
 isFeatured: true
 seo:
