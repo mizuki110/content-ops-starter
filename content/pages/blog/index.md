@@ -123,7 +123,7 @@ topSections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Cash App Gift Card $750
+        title: CTConnect - Taco Bell $100
         tagline: ''
         subtitle: ''
         text: >
