@@ -11,7 +11,6 @@ excerpt: >-
   grabs!Possibility to Win: With the limited number of entries, your chances to
   win are high! Don't miss out on this exclusive offer.
 featuredImage:
-  url: /images/Amazon-Gift-Card-PNG-Image-Background.png
   altText: Thumbnail
   type: ImageBlock
   styles:
