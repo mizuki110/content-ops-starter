@@ -83,7 +83,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: List of features here
+      text: Top Giveaway Offers
       color: text-primary
       styles:
         self:
