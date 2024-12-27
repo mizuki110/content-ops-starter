@@ -127,9 +127,9 @@ topSections:
         tagline: ''
         subtitle: ''
         text: >
-          Ready for a massive cash boost? Win $750 in your Cash App account and
-          enjoy the ultimate shopping spree or savings boost. Enter now to win
-          big!
+          Love Taco Bell? Win a $100 gift card to enjoy your favorite meals for
+          free! Entry is quick and easy with email & zip submit. Odds are high,
+          so give it a shot today!
         image:
           type: ImageBlock
           url: /images/GSSZjqUagAA3YDp.png
