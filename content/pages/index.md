@@ -287,8 +287,10 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          I’ve entered so many giveaways online, but this site is by far the
+          best! The offers are amazing, and I love how easy it is to
+          participate. I won a $100 Amazon gift card last week! Highly
+          recommend!
         tagline: LuckyWinner123
         subtitle: 'Maria Walters, Company'
         text: >-
