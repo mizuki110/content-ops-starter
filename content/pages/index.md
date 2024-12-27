@@ -316,8 +316,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          This website is a game-changer! I never knew there were so many
+          opportunities to win cool prizes like an iPhone 14. Super easy to use
+          and lots of high-value giveaways!
         tagline: TechieGamer
         subtitle: ''
         text: ''
