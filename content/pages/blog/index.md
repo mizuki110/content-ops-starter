@@ -131,7 +131,8 @@ topSections:
           clicks. Join the thousands of participants vying for this prize!
         image:
           type: ImageBlock
-          url: /images/GSSZjqUagAA3YDp.png
+          url: >-
+            /images/pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_12192877.png
           altText: Placeholder image
           styles:
             self:
