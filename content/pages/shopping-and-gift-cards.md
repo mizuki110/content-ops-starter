@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Careers
+title: Shopping & Gift Cards
 sections:
   - type: GenericSection
     title:
