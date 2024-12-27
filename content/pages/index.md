@@ -376,7 +376,7 @@ sections:
           legit and offers great rewards. The process is quick and
           user-friendly. Keep the prizes coming!
         tagline: FreebieHunter99
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: ''
         image:
           url: /images/person-placeholder-light.png
