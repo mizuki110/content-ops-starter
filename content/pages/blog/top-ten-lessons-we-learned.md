@@ -1,5 +1,7 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: >-
+  Want a chance to score a $100 Amazon gift card? Enter now for a simple chance
+  to win!
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
