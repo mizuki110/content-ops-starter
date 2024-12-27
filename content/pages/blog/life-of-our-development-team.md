@@ -1,5 +1,5 @@
 ---
-title: CTConnect - Paypal $100
+title: ''
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
