@@ -8,7 +8,7 @@ excerpt: >-
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
   url: >-
-    /images/kisspng-logo-product-design-font-brand-reward-demo-jet-set-go-rewards-1713928111455.webp
+    /images/png-clipart-paypal-logo-brand-font-payment-paypal-text-logo-thumbnail.png
   altText: Thumbnail
   type: ImageBlock
   styles:
