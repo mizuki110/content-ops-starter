@@ -400,8 +400,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          I’ve been using this site for a couple of weeks, and I’m already
+          hooked. From Taco Bell to Amazon gift cards, the prizes are awesome,
+          and the chances of winning are real!
         tagline: GiftCardGuru
         subtitle: 'Jane Walters, Company'
         text: >-
