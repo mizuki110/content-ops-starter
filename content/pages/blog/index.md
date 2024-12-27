@@ -123,7 +123,7 @@ topSections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: CTConnect - Taco Bell $100
+        title: Win a $500 Cash Prize
         tagline: ''
         subtitle: ''
         text: >
