@@ -404,7 +404,7 @@ sections:
           hooked. From Taco Bell to Amazon gift cards, the prizes are awesome,
           and the chances of winning are real!
         tagline: GiftCardGuru
-        subtitle: 'Jane Walters, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
