@@ -8,7 +8,7 @@ excerpt: >-
   asperiores dolore.
 featuredImage:
   url: /images/pngimg.com - paypal_PNG7.png
-  altText: Thumbnail
+  altText: 'https://smrturl.co/a/s05df2e40f0/576?s1='
   type: ImageBlock
   styles:
     self:
