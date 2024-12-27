@@ -17,7 +17,7 @@ featuredImage:
         - pt-5
         - pb-5
         - pr-5
-        - pl-5
+        - pl-2
 isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
