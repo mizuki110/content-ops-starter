@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Big Cash Giveaways
+slug: /Big Cash Giveaways
 seo:
   type: Seo
   metaTitle: Careers - Demo site
