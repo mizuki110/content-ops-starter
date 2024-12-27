@@ -8,7 +8,9 @@ topSections:
       text: CTConnect - $100 Amazon Gift Card
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: >-
+      Want a chance to score a $100 Amazon gift card? Enter now for a simple
+      chance to win!
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
