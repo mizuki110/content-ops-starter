@@ -14,7 +14,7 @@ featuredImage:
     self:
       borderRadius: x-small
       padding:
-        - pt-5
+        - pt-2
         - pb-2
         - pr-2
         - pl-2
