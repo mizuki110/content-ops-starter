@@ -23,6 +23,7 @@ featuredImage:
         - ml-1
         - mb-1
         - mr-1
+      borderWidth: 1
 isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
