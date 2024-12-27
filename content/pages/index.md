@@ -428,8 +428,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          Just entered for a chance to win $25k. The website is well-organized,
+          and the giveaways are always exciting. I love how they update
+          regularly with fresh offers!
         tagline: AdventureSeeker
         subtitle: 'Jane Doe, Company'
         text: >-
