@@ -5,9 +5,11 @@ title: >-
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  How it works: Just submit your email and zip code for a chance to win. The
+  process takes just a minute, and you could be the next lucky winner!Entries:
+  Over 5,000 people have already entered, and the prize is still up for
+  grabs!Possibility to Win: With the limited number of entries, your chances to
+  win are high! Don't miss out on this exclusive offer.
 featuredImage:
   url: /images/Amazon-Gift-Card-PNG-Image-Background.png
   altText: Thumbnail
