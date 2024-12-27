@@ -160,7 +160,7 @@ topSections:
             textAlign: left
             justifyContent: center
     actions: []
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
