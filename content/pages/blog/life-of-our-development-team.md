@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: ''
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
@@ -7,8 +7,8 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/abstract-feature3.svg
-  altText: Thumbnail
+  url: /images/pngimg.com - paypal_PNG7.png
+  altText: 'https://smrturl.co/a/s05df2e40f0/576?s1='
   type: ImageBlock
   styles:
     self:
