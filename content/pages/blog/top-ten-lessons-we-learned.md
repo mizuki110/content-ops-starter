@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   styles:
     self:
-      borderRadius: medium
+      borderRadius: small
 isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
