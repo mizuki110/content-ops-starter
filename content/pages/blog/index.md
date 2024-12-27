@@ -1,6 +1,6 @@
 ---
 title: Top Giveaways
-slug: /Top Giveaways
+slug: /blog
 numOfPostsPerPage: 12
 enableSearch: false
 topSections:
