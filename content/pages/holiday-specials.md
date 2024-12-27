@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Careers
+title: Holiday Specials
 sections:
   - type: GenericSection
     title:
