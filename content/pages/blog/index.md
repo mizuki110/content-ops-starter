@@ -95,7 +95,7 @@ topSections:
           participating daily. Don't miss your chance to cash in!
         image:
           type: ImageBlock
-          url: /images/Amazon-Gift-Card-PNG-Image-Background.png
+          url: /images/1278432017.200x200.png
           altText: Placeholder image
           styles:
             self:
