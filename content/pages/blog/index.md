@@ -90,8 +90,9 @@ topSections:
         tagline: ''
         subtitle: ''
         text: >
-          Shop for anything you want with a $100 Amazon Gift Card! From
-          electronics to everyday items, it’s all yours.
+          Get a chance to win a $100 PayPal gift card! Simple email & zip
+          submit—takes less than 2 minutes to enter. Thousands of users are
+          participating daily. Don't miss your chance to cash in!
         image:
           type: ImageBlock
           url: /images/Amazon-Gift-Card-PNG-Image-Background.png
