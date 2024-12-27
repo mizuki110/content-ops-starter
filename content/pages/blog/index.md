@@ -86,7 +86,7 @@ topSections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: CTConnect - Paypal $100
+        title: Win a Paypal $100
         tagline: ''
         subtitle: ''
         text: >
