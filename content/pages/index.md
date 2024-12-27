@@ -224,7 +224,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Your Ultimate Destination for Exclusive Giveaways!
       color: text-dark
       styles:
         self:
