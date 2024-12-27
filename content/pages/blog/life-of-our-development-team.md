@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/1278432017.200x200.png
+  url: /images/pngimg.com - paypal_PNG7.png
   altText: Thumbnail
   type: ImageBlock
   styles:
