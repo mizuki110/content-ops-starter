@@ -231,11 +231,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Discover the best giveaways all in one place! Our platform brings you a
+      wide range of exciting prizes, from gift cards to cash rewards. With easy
+      participation and real chances to win, you can join the fun and unlock
+      amazing offers with just a few clicks. Don’t miss out on your chance to
+      score big—start exploring today!
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
