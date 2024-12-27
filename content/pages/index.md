@@ -131,8 +131,7 @@ sections:
         subtitle: ''
         text: >
           Shop for anything you want with a $100 Amazon Gift Card! From
-          electronics to everyday items, it’s all yours. Don’t miss out—claim
-          your chance now!
+          electronics to everyday items, it’s all yours.
         image:
           url: /images/Amazon-Gift-Card-PNG-Image-Background.png
           altText: Placeholder image
