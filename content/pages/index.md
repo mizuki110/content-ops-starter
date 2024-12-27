@@ -271,6 +271,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+      text:
+        textAlign: center
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
